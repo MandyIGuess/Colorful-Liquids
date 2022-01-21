@@ -1,5 +1,5 @@
 # *Colorful Liquids*
-This is a Minecraft Java Edition mod that adds colored variants of water and lava to the game. As of now, there are only colors corresponding to the 16 wool colors for water and lava (this means 16 colors for both water and lava), so suggestions are open for more colors, just make a comment on the MCreator mod page, or make a suggestion in the 'Issues' tab here in the repository.
+This is a Minecraft Java Edition mod that adds colored variants of water and lava to the game. As of now, there are only colors corresponding to the 16 wool colors for water and lava (this means 16 colors for both water and lava), so suggestions are open for more colors, just make a comment on the MCreator mod page, or make a suggestion in the 'Discussions' tab here in the repository.
 
 ## How To Set Up
 
